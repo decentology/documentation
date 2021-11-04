@@ -2,6 +2,10 @@
 
 * [Overview](README.md)
 
+## Web3 Fundamentals
+
+* [Glossary](web3-fundamentals/glossary.md)
+
 ## Create Your Dapp
 
 * [DappStarter Web App](create-your-dapp/dappstarter-web-app.md)
