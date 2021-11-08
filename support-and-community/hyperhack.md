@@ -12,7 +12,9 @@ Hyperhack is a month-long content creation hackathon, open to developers of all 
 
 ### How do I participate?
 
-If you haven't already, [sign up](https://q5xg9k10cux.typeform.com/to/Nk5DNoRH).
+If you haven't already, sign up here :&#x20;
+
+{% embed url="https://q5xg9k10cux.typeform.com/to/Nk5DNoRH?typeform-source=www.decentology.com" %}
 
 Join [our Discord ](https://discord.gg/FFtYYUBj)for the most up to date information, to have your questions answered, and to ask for feedback.&#x20;
 
