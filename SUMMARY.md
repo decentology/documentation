@@ -42,8 +42,7 @@
 ## Support & Community
 
 * [Discord](https://discord.gg/uqecGxg)
-* [Hyperhack](support-and-community/hyperhack/README.md)
-  * [Get Started!](support-and-community/hyperhack/get-started.md)
+* [Hyperhack](support-and-community/hyperhack.md)
 
 ## Guides
 
