@@ -10,7 +10,7 @@ DappStarter is a full-stack development environment for blockchains. It supports
 
 ## When to Use DappStarter?
 
-Developers can use DappStarter to quickly and easily create create blockchain applications.&#x20;
+Developers can use DappStarter to quickly and easily create blockchain applications.
 
 #### DappStarter output includes:
 
